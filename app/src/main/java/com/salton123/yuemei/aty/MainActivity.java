@@ -1,4 +1,4 @@
-package com.salton123.yuemei;
+package com.salton123.yuemei.aty;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -17,6 +17,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.salton123.yuemei.R;
 import com.salton123.yuemei.fm.PictureCategoryFragment;
 import com.salton123.yuemei.fm.StoryFragment;
 
